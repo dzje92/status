@@ -1,6 +1,6 @@
 local everything = {
-	"status",
-	"   ",
+    "status",
+    "   ",
     "🟢 : Menu",
     "    ",
     "Tab 1 - Hop Sever",
